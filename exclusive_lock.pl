@@ -5,7 +5,7 @@
 #
 #        USAGE: ./exclusive_lock.pl  
 #
-#  DESCRIPTION: 
+#  DESCRIPTION: test write exlusive lock
 #
 #      OPTIONS: ---
 # REQUIREMENTS: ---
